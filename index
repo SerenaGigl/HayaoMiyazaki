@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HayaoMiyazaki</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merienda:wght@600&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Macondo&family=Merienda:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="HayaoMiyazaki.css">
+</head>
+<body>
+        
+    <div id="container">
+        
+        <div class="alfa"><h1>Hayao Miyazaki</h1></div>
+        
+        <div class="bravo"> 
+            <p>
+                Oltre al suo lavoro nel cinema d'animazione, Miyazaki è apprezzato anche per la sua produzione di manga. La sua opera più significativa in questo campo è la serie di manga “Nausicaä della Valle del Vento”, che è stata adattata nell'omonimo film d'animazione nel 1984, diretto dallo stesso Miyazaki.
+            </p>
+            
+        </div>
+        
+        <div class="charlie">
+            <p>
+                I temi di Miyazaki esplorano spesso l'infanzia, il bene contro il male, il ruolo delle donne, il pacifismo, l'ambientalismo, il volo, l'amore e la politica. <br>
+                <strong>Pacifismo</strong>: La convinzione che le dispute possano essere risolte pacificamente senza l'uso della forza fisica è uno dei temi più ricorrenti nei lavori di Miyazaki. Nei film come “Il castello nel cielo”, “Il castello errante di Howl”, “La principessa Mononoke” e “Nausicaä della Valle del Vento”, i personaggi principali cercano di portare la pace in mondi pieni di conflitti. Anche se gli scontri fisici sono presenti, vengono utilizzati per evidenziarne la futilità. 
+                <br>
+                <strong>Scene di volo</strong>: Miyazaki ha una grande passione per gli aerei, in particolare quelli antichi. Questo amore per il volo si riflette spesso nelle sue opere, con scene di volo spettacolari e suggestive. La sua famiglia possedeva un'azienda che produceva parti per gli Zero, e questo ha avuto un grande impatto sulla sua carriera.
+                <br>
+                <strong>Natura e ambiente</strong>: L'ambiente è uno dei temi centrali nella filmografia di Miyazaki. Nei suoi film, la natura e l'umanità vivono in armonia in vari contesti, dalla campagna alle città. La natura stessa diventa spesso un personaggio, con spiriti e divinità che rappresentano la sua forza e la sua bellezza.
+                <br>
+                <strong>Magia e spiritualità</strong>: Temi shintoisti, buddisti e taoisti emergono in molti dei film di Miyazaki. Ad esempio, lo Shintoismo, una religione animista, crede che il mondo naturale sia abitato da spiriti. Questo concetto si riflette nei personaggi e negli elementi magici presenti nei suoi film.
+                <br>       
+                <strong>Bellezza e dettagli</strong>: Miyazaki è noto per la sua attenzione ai dettagli e alla bellezza visiva. I suoi mondi fantastici sono ricchi di particolari, dai paesaggi alle creature.
+            </p>
+        </div>
+        
+        <div class="delta">
+            <p>
+                Hayao Miyazaki (宮崎 駿) è nato il 5 gennaio 1941 a Tokyo, Giappone. È un rinomato regista giapponese, sceneggiatore, animatore, fumettista e produttore cinematografico. Nel corso della sua carriera di cinque decenni, Miyazaki è diventato una delle figure più riconosciute nell'animazione giapponese a livello mondiale. Il suo nome è strettamente associato a Studio Ghibli, lo studio di animazione che ha co-fondato nel 1985 insieme al suo collega e mentore Isao Takahata. Studio Ghibli è ora considerato uno dei più importanti studi del settore.
+            </p>
+            
+        </div>
+        
+        <div class="echo">
+          <img src="Miyazaki.jpg" alt="HayaoMiyazaki">
+        </div>
+        
+        <div class="foxtrot">
+            <p>
+                Miyazaki viene spesso paragonato a Walt Disney per l'importanza dei suoi contributi all'animazione e a Akira Kurosawa per il suo ruolo centrale nella storia del cinema giapponese. Il suo lavoro, insieme a quello di altri talentuosi animatori come Isao Takahata, Hideaki Anno, Katsuhiro Ōtomo, Satoshi Kon e Mamoru Oshii, <em>ha contribuito a dissipare lo stereotipo secondo cui l'animazione giapponese avesse un valore artistico inferiore.</em> La sua fama internazionale è cresciuta dopo che il suo film “La città incantata” (Spirited Away) ha vinto l'Orso d'oro al Festival del cinema di Berlino e l'Oscar per la Miglior film d'animazione, diventando così il primo e unico anime a ottenere tali onori.
+            </p>
+        </div>
+        
+        <div class="golf">
+            
+            <li>Alcuni dei suoi film più famosi includono:</li>
+            <li><strong>"La città incantata" (Spirited Away)</strong>: Questo film ha vinto l'Orso d'oro al Festival del cinema di Berlino e l'Oscar per la Miglior film d'animazione, diventando il primo e unico anime a ottenere tali onori.Un viaggio magico attraverso un mondo di spiriti, creature fantastiche e misteri.</li>
+            <li><strong>"La principessa Mononoke" (Princess Mononoke)</strong>: Ha detenuto il titolo di film di maggiore incasso nella storia del Giappone prima di essere superato da "Titanic". È uno dei suoi lavori più celebri. Un epico conflitto tra gli esseri umani e gli spiriti della foresta.</li>
+            <li><strong>"Il castello errante di Howl" (Howl's Moving Castle)</strong>:  Una fiaba fantastica con un castello ambulante e una giovane strega.</li>
+            <li><strong>"Ponyo sulla scogliera" (Ponyo)</strong>: Un film adorabile e fantasioso che ha catturato il cuore di molte persone. Una tenera storia d'amore tra un ragazzo e una piccola sirena</li>
+            <li><strong>"Il castello nel cielo" (Castle in the Sky)</strong>: una storia di avventura e amicizia tra due giovani che cercano una leggendaria città fluttuante.</li>
+            <li><strong> "Il mio vicino Totoro" (My Neighbor Totoro)</strong>: un film dolce e commovente che celebra l'immaginazione e la natura.</li>
+            <li><strong>"Kiki, consegne a domicilio"</strong>: una giovane strega che, seguendo la tradizione, lascia la casa della famiglia per trovare una città in cui svolgere un anno di apprendistato. Il suo viaggio la porta a scoprire l'indipendenza e la magia della vita quotidiana</li>
+            <li><strong>"Porco Rosso"</strong>:  la storia di Marco Pagot, un asso dell'aviazione diventato un pilota mercenario, noto come "Porco Rosso", che combatte i pirati dell'aria nel suo idrovolante rosso.</li>
+            <li><strong>"Nausicaa della valle del vento"</strong>: ambientato in un mondo postapocalittico, il film segue la principessa Nausicaä nella sua lotta contro un regno che cerca di distruggere la giungla tossica e gli insetti mutanti giganti che hanno intossicato il pianeta.</li> 
+        </div>
+        
+        <div class="hotel">
+            <img src="StudioGhibli.jpg" alt="studioghibli" >
+        </div>
+        
+
+        <div class="india">
+            <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+            
+            <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
+            
+            <a href="https://web.telegram.org/" class="fa fa-telegram"></a>
+        </div>
+        
+        
+    </div>
+    
+</body>
+</html>
